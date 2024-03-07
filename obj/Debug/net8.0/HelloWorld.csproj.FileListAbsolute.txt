@@ -1,0 +1,14 @@
+/Volumes/Data/project/test/HelloWorld/bin/Debug/net8.0/HelloWorld
+/Volumes/Data/project/test/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/Volumes/Data/project/test/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/Volumes/Data/project/test/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/Volumes/Data/project/test/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/Volumes/Data/project/test/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/project/test/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/Volumes/Data/project/test/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/Volumes/Data/project/test/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Volumes/Data/project/test/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/Volumes/Data/project/test/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/Volumes/Data/project/test/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/Volumes/Data/project/test/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/Volumes/Data/project/test/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
